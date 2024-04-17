@@ -12,6 +12,15 @@ In a stack a new element is removed from the end only while insert and delete ar
 The advantages:-
 Helps manage data in the "Last in First out" method,It allows cotrol and handle memory allocation and deallocation.
 It helps to automatically clean up objects.
+## Queues
+Queues in data structure are like real life queues where the firstperson to join in is the first to served.
+They are linear data structure with dynamic size, and operations on queues are enqueue and dequeue.
+The advantages are;-
+Easy insertion and deletion
+efficient management
+consumer service
+
+
 
 
 
