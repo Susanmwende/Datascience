@@ -1,5 +1,4 @@
-# Tuples and Stacks
-## Tuples
+# Tuples
 Tuples are ordered lists of elements.
 They are ordered, immutable, allows duplicates and defined using parentheses.
 The advantages are;-
